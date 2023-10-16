@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pallet1">#F2F2F2</color>
+    <color name="pallet2">#D9D9D9</color>
+    <color name="pallet3">#A6A6A6</color>
+    <color name="pallet4">#595959</color>
+    <color name="pallet5">#404040</color>
+    <color name="s_pallet1">#0FC2C0</color>
+    <color name="s_pallet2">#0CABA8</color>
+    <color name="s_pallet3">#008F8C</color>
+    <color name="s_pallet4">#015958</color>
+    <color name="s_pallet5">#023535</color>
+    <color name="t_pallet1">#77A668</color>
+    <color name="t_pallet2">#228765</color>
+    <color name="t_pallet3">#94D794</color>
+    <color name="t_pallet4">#D6FFBE</color>
+    <color name="t_pallet5">#36CC7C</color>
+</resources>
